@@ -1,0 +1,9 @@
+.dashboard{
+    min-height:100vh;
+    height:fit-content;
+    width:fit-content;
+    min-width: 100%;
+    background-color: #f4f5f8;
+    display:flex;
+    padding-left:30px;
+}

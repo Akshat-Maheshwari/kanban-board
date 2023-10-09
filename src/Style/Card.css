@@ -1,0 +1,58 @@
+.card{
+    padding:15px;
+    padding-top:4px;
+    padding-bottom:15px;
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #373939;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    width:350px;
+    margin-bottom:10px;
+}
+.top_row{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #959595;
+    margin-bottom:5px;
+}
+.profile_pic{
+    position: relative;
+    top:5px;
+}
+.mid_row{
+    display: flex;
+    margin-bottom:10px;
+    height:40px;
+}
+.bottom_row{
+    display:flex;
+}
+.card_priority{
+    position: relative;
+    top:2px;
+    margin-right:10px;
+}
+.card_title{
+    margin-left:10px;
+    font-weight: 500;
+}
+.tag{
+    display: flex;
+    align-items: center;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #686868;
+    padding:2px 5px;
+}
+.bullet{
+    margin-right:4px;
+    position: relative;
+    top:2px;
+}
