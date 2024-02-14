@@ -3,5 +3,5 @@ ul{
     margin:0;
 }
 .dropdown{
-    display:inline;
+    display:inline-block;
 }
